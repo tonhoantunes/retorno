@@ -5,4 +5,4 @@ while i < 101:
     i += 1
 
 for num in range(1, 101):
-    print(num)
+    print(f"A sua senha é {num}")
